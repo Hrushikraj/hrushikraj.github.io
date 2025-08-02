@@ -8,7 +8,7 @@ order: 4
 {: .prompt-tip } -->
 
 Hi! I am Hrushik and a dedicated Electronics and Communication Engineering student with a strong foundation in cybersecurity, reverse engineering, and embedded systems. My experience spans memory forensics research, malware analysis, and hardware implementation of advanced algorithms.
- {% comment %}
+
 ## Experience 
 
 **Indian Institute of Technology, Guwahati**  
